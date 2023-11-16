@@ -1023,7 +1023,7 @@ section.slider-hero {
 .dishes.owl-theme .owl-dots .owl-dot.active span,
 .choosecategory.owl-theme .owl-dots .owl-dot.active span {
     background: transparent;
-    border: 5px solid #f3274c;
+    border: 5px solid #ed1c24;
     padding: 4px;
     margin: 4px;
 }
@@ -1041,7 +1041,7 @@ section.slider-hero {
 .bratlee-hamint {
     width: 90%;
     padding: 40px;
-    border: 5px solid #ffd40d;
+    border: 5px solid #d2aa4d;
     border-radius: 30px;
     position: relative;
     margin-top: 50px;
@@ -1057,16 +1057,19 @@ section.slider-hero {
 }
 img.bratlee-hamint-2 {
     position: absolute;
+    background-size: contain;
     top: 30%;
     z-index: -1;
 }
 img.bratlee-hamint-3 {
     position: absolute;
+    background-size: contain;
     right: 0;
     bottom: 0px;
 }
 img.bratlee-hamint-1 {
     position: absolute;
+    background-size: contain;
     right: 22%;
     top: 0;
 }
@@ -1079,7 +1082,7 @@ img.quote {
     width: 65px;
     height: auto;
     padding: 16px;
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     border-radius: 50%;
     bottom: 10px;
 }
