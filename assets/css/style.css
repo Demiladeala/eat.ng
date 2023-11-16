@@ -118,7 +118,7 @@ p
     padding: 0;
 }
 a,h2,h3,h4,h5,h6{
-    color: #000;
+    color: #231f20;
     margin: 0;
 }
 a{
@@ -524,7 +524,7 @@ figure {
 }
 .slider-home-1.owl-theme .owl-dots .owl-dot.active span {
     background: transparent;
-    border: 5px solid #ffd40d;
+    border: 5px solid #d2aa4d;
     padding: 4px;
     margin: 4px;
 }
@@ -547,7 +547,7 @@ ul.star li i{
 }
 .weekly-special {
     align-items: center;
-    border: 3px solid #ffd40d;
+    border: 3px solid #d2aa4d;
     display: flex;
     position: absolute;
     width: auto;
@@ -623,7 +623,7 @@ section.slider-hero {
 .restaurant-card span {
     left: 0;
     font-size: 25px;
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     width: 101%;
     text-align: center;
     bottom: 0;
@@ -641,7 +641,7 @@ section.slider-hero {
     position: absolute;
     width: 90%;
     top: 50%;
-    border: 4px solid #ffd40d;
+    border: 4px solid #d2aa4d;
     border-radius: 30px;
     height: 92%;
     transform: translate(-50%, -50%);
@@ -650,7 +650,7 @@ section.slider-hero {
 .coctail-bar {
     position: absolute;
     top: 0;
-    background-color: #f3274ce8;
+    background-color: #ed1c24e8;
     padding: 40px;
     text-align: center;
     width: 100%;
@@ -695,7 +695,7 @@ section.slider-hero {
 .heading-two .line {
     width: 270px;
     height: 12px;
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     border-radius: 26px;
     margin: auto;
     margin-bottom: 60px;
@@ -704,7 +704,7 @@ section.slider-hero {
 /* 11. discover-menu tab */
 .section-discover-menu .nav-link svg {
     width: 70px;
-    fill: #f3274c;
+    fill: #ed1c24;
     display: block;
     margin: auto;
     margin-bottom: 15px;
@@ -803,7 +803,7 @@ section.slider-hero {
     border-radius: 30px;
 }
 .bbr-price {
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     border-radius: 50%;
     width: 140px;
     height: 140px;
@@ -837,7 +837,7 @@ section.slider-hero {
     font-size: 50px;
     color: white;
     text-transform: uppercase;
-    border-bottom: 3px solid #ffd40d;
+    border-bottom: 3px solid #d2aa4d;
 }
 .reserve-table-text p{
     font-size: 18px;
@@ -849,11 +849,11 @@ section.slider-hero {
     text-align: end;
 }
 .reserve-table .button{
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     color: black;
 }
 .reserve-table .button:before{
-    border: 3px solid #ffd40d;
+    border: 3px solid #d2aa4d;
 }
 .section-featured {
     padding-top: 330px;
@@ -934,7 +934,7 @@ section.slider-hero {
 .featured-dishes{
     padding: 30px;
     border-radius: 30px;
-    border: 5px solid #ffd40d;
+    border: 5px solid #d2aa4d;
 }
 .featured-dishes-img {
     text-align: center;
@@ -966,7 +966,7 @@ section.slider-hero {
     width: 45px;
     height: 45px;
     padding: 10px;
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     border-radius: 10px;
     position: absolute;
     right: 0;
@@ -983,7 +983,7 @@ section.slider-hero {
     width: 45px;
     height: 45px;
     padding: 12px;
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     border-radius: 10px;
     position: absolute;
     right: 20px;
@@ -993,7 +993,7 @@ section.slider-hero {
     position: absolute;
     width: 60px;
     height: 60px;
-    background-color: #ffd40d;
+    background-color: #d2aa4d;
     border-radius: 50%;
     display: flex;
     justify-content: center;
