@@ -3716,7 +3716,7 @@ table.shop_table td.product-name a,.our-blog .recent-news-two h2,footer.three .h
 }
 /* 80. progress */
 #progress {
-    z-index: 111;
+  z-index: 111;
   position: fixed;
   bottom: 20px;
   right: 10px;
@@ -3727,7 +3727,7 @@ table.shop_table td.product-name a,.our-blog .recent-news-two h2,footer.three .h
   border-radius: 50%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   cursor: pointer;
-  background-color: #ed1c24;
+  background: #ed1c24; 
 }
 #progress-value {
   display: block;
